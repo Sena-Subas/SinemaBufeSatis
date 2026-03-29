@@ -1,4 +1,4 @@
-# SinemaBufeSatis
+# Cinema-Concession-Sales-Screen
 This project is a Windows Forms application built using Visual Studio 2022. It allows users to purchase cinema tickets, including optional food and beverage items.
 
 Features
